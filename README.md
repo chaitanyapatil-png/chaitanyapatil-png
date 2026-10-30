@@ -1,153 +1,157 @@
 
-<!-- ================= ANIMATED HEADER ================= -->
+<!-- ================================================== -->
+<!-- CHAITANYA PATIL | CYBERSECURITY PROFILE             -->
+<!-- ================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020024,50:090979,100:00D4FF&text=CHAITANYA%20PATIL&fontColor=ffffff&fontSize=48&fontAlignY=45&animation=fadeIn&stroke=00F7FF&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:071D2B,100:063B4C&height=180&section=header&text=CHAITANYA%20PATIL&fontSize=48&fontColor=E0F7FA&fontAlignY=42&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20PYTHON&descSize=16&descColor=22D3EE&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Python+Developer;Linux+%7C+Network+Security;Web+Security+Learner;Learn.+Build.+Secure.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Exploring+the+Digital+World...;Analyzing+Systems+%26+Networks;Building+with+Python+%26+Linux;Learning+to+Think+Like+a+Defender;Learn.+Build.+Protect." />
 
-</div>
-
----
-
-<!-- ================= ABOUT ME ================= -->
-
-<h2 align="center">🛡️ About Me</h2>
-
-<p align="center">
-I'm a BCA graduate interested in <b>Cybersecurity, Network Security,
-Web Security, and Security Automation.</b>
 <br/>
-I enjoy learning by building projects, experimenting with security tools,
-and understanding how systems and networks work.
-</p>
 
-<div align="center">
-
-🔐 Cybersecurity & Information Security
-
-🐍 Python Tools & Security Automation
-
-🐧 Linux & Kali Linux
-
-🌐 Web Security & Network Security
-
-💻 Practical Labs & Hands-on Learning
-
-🚀 Always Learning. Always Building.
+<img src="https://img.shields.io/badge/PROFILE-CYBERSECURITY-00D4FF?style=flat-square&labelColor=07111F"/>
+<img src="https://img.shields.io/badge/FOCUS-LINUX%20%7C%20NETWORKS-00D4FF?style=flat-square&labelColor=07111F"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00D4FF?style=flat-square&labelColor=07111F"/>
 
 </div>
 
 ---
 
-<!-- ================= SKILLS ================= -->
+## `01 // WHO AM I`
 
-<h2 align="center">🛡️ Cybersecurity Skills</h2>
+```bash
+┌──[chaitanya@cyber-space]
+└─$ whoami
+
+BCA Graduate | Cybersecurity Enthusiast
+
+└─$ mission
+
+Understand systems.
+Explore vulnerabilities.
+Build practical solutions.
+Learn to make technology more secure.
+```
+
+I'm a BCA graduate passionate about **Cybersecurity, Network Security, Linux Administration, Web Security, and Python Automation**.
+
+I believe in learning through practical experiments, understanding how technologies work internally, and building projects that solve real problems.
+
+- 🔐 Exploring cybersecurity and information security
+- 🐧 Working with Linux and Kali Linux
+- 🐍 Developing Python applications and security tools
+- 🌐 Learning web and network security
+- 🧪 Practicing with security tools and hands-on labs
+
+---
+
+## `02 // SECURITY INTERESTS`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Network_Security-00D4FF?style=for-the-badge&logo=cisco&logoColor=black"/>
-<img src="https://img.shields.io/badge/Web_Security-00D4FF?style=for-the-badge&logo=owasp&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vulnerability_Assessment-00D4FF?style=for-the-badge&logo=securityscorecard&logoColor=black"/>
-<img src="https://img.shields.io/badge/Penetration_Testing-00D4FF?style=for-the-badge&logo=kalilinux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux_Security-00D4FF?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Encryption-00D4FF?style=for-the-badge&logo=letsencrypt&logoColor=black"/>
-<img src="https://img.shields.io/badge/Security_Automation-00D4FF?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Incident_Response-00D4FF?style=for-the-badge&logo=datadog&logoColor=black"/>
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-0B2535?style=for-the-badge&logo=cisco&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/WEB%20SECURITY-0B2535?style=for-the-badge&logo=owasp&logoColor=22D3EE"/>
+
+<img src="https://img.shields.io/badge/VULNERABILITY%20ASSESSMENT-0B2535?style=for-the-badge&logo=hackthebox&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/PENETRATION%20TESTING-0B2535?style=for-the-badge&logo=kalilinux&logoColor=22D3EE"/>
+
+<img src="https://img.shields.io/badge/LINUX%20SECURITY-0B2535?style=for-the-badge&logo=linux&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-0B2535?style=for-the-badge&logo=python&logoColor=22D3EE"/>
+
+<img src="https://img.shields.io/badge/ENCRYPTION-0B2535?style=for-the-badge&logo=letsencrypt&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/SOC%20FUNDAMENTALS-0B2535?style=for-the-badge&logo=datadog&logoColor=22D3EE"/>
 
 </div>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## `03 // TECHNICAL ARSENAL`
 
-<h2 align="center">💻 Programming Languages & Technologies</h2>
+### Programming
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,bash,mysql&perline=5"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,mongodb,nodejs,express&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,bash&theme=dark&perline=8"/>
 
 </div>
 
-<p align="center">
-  <b>Also Exploring:</b> Selenium | EJS | VirtualBox | SQL
-</p>
+### Systems & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,mysql,mongodb,nodejs&theme=dark&perline=8"/>
+
+</div>
+
+**Additional technologies:** SQL, Express.js, EJS, Selenium, VirtualBox.
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
+## `04 // SELECTED PROJECTS`
 
 <div align="center">
 
 <a href="https://github.com/chaitanyapatil-png/SecureCrypt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyapatil-png&repo=SecureCrypt&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyapatil-png&repo=SecureCrypt&theme=github_dark&hide_border=true"/>
 </a>
 
 <a href="https://github.com/chaitanyapatil-png/Alarm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyapatil-png&repo=Alarm&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyapatil-png&repo=Alarm&theme=github_dark&hide_border=true"/>
 </a>
 
 </div>
 
-### 🔐 Other Projects
+### Other development work
 
-| Project | Description | Technologies |
+| Project | Description | Stack |
 |---|---|---|
-| Password Manager | GUI-based encrypted password management | Python, Tkinter, Fernet |
+| Password Manager | Encrypted credential management GUI | Python, Tkinter, Fernet |
 | NotiQ | Android notification management POC | Kotlin, Android |
-| Security Tools | Security and automation experiments | Python, Linux |
-| Web Development | Backend and database-driven applications | Node.js, Express, MongoDB |
+| Security Tools | Cybersecurity and automation experiments | Python, Linux |
+| Web Applications | Backend, authentication and database projects | Node.js, MongoDB |
 
 ---
 
-<!-- ================= LEARNING ================= -->
+## `05 // CURRENT OPERATIONS`
 
-<h2 align="center">📚 Currently Learning</h2>
+```text
+[01] WEB APPLICATION SECURITY
+     Exploring vulnerabilities and secure development.
 
-<div align="center">
+[02] LINUX ADMINISTRATION
+     Improving command-line and system administration skills.
 
-| Area | Learning Focus |
-|:---:|:---|
-| 🔎 | Web Application Security |
-| 🛡️ | SOC & Blue Team Fundamentals |
-| 🌐 | Network Security |
-| 🐧 | Linux Security |
-| 🚨 | Incident Response |
-| 🤖 | Python Security Automation |
-| 🔐 | OWASP & Secure Web Development |
+[03] NETWORK SECURITY
+     Learning networking concepts and security fundamentals.
 
-</div>
+[04] SOC & BLUE TEAM
+     Exploring monitoring, detection and incident response.
+
+[05] PYTHON AUTOMATION
+     Developing practical scripts and security utilities.
+```
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
+## `06 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyapatil-png&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyapatil-png&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyapatil-png&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyapatil-png&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=chaitanyapatil-png&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=chaitanyapatil-png&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-
-<h2 align="center">🐍 Contribution Activity</h2>
+## `07 // CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
@@ -157,34 +161,28 @@ and understanding how systems and networks work.
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">🤝 Connect With Me</h2>
+## `08 // ESTABLISH CONNECTION`
 
 <div align="center">
 
-<a href="https://github.com/chaitanyapatil-png">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/chaitanya-patil-72268b28b">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/chaitanya-patil-72268b28b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/chaitanyapatil-png">
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://chaitanyapatil-png.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:063B4C,50:071D2B,100:050B14&height=130&section=footer"/>
 
-<div align="center">
+### `LEARN // BUILD // PROTECT`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=120&section=footer"/>
-
-### 💡 Learn. Build. Secure. Repeat.
-
-⭐ Thanks for visiting my profile!
+<sub>Thanks for exploring my digital workspace.</sub>
 
 </div>
